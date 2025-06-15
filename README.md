@@ -45,3 +45,6 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/2034a776-29f2-4287-8a64-026ac538ff57/47cadb8a109697100bf7?experience=power-bi
 )
 
+## Project Presentation
+Link [here] (https://www.youtube.com/embed/42wtaJPDeyI?si=ogyUcUW9MzGv6pTd)
+
